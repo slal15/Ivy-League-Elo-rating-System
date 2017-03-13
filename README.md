@@ -24,9 +24,9 @@ A CSV file composed of the results of the previous 5 seasons of Ivy teams' resul
 
 ### Further work to improve system:
 * Second game of back to back road games. 
-  ** Explore whether teams playing a second consecutive road game disproportiantely lose, could improve prediction system.
+  *Explore whether teams playing a second consecutive road game disproportiantely lose, could improve prediction system.
 
 * Include all games of non-conference teams to have more accurate results. 
-  ** Currently only Ivy team's results are included but inherently the out of conference results will not be accurate in updating Elo ratings, as team's like Duke are considered an average of 1500 rather than a rating more commensurate with actual ability.
+ *Currently only Ivy team's results are included but inherently the out of conference results will not be accurate in updating Elo ratings, as team's like Duke are considered an average of 1500 rather than a rating more commensurate with actual ability.
 
 * Build Monte Carlo simulation that updates with each result throughout season
