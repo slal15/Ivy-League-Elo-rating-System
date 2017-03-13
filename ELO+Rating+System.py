@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[2]:
-
 import math
 
 def calc_elo(home_team_elo,away_team_elo,MOV,Location,Ivy_Season,NCAA_Tournament):
